@@ -1,0 +1,7 @@
+Age,Gender,Symptom1,Symptom2,Symptom3,History,Diagnosis
+30,Male,1,0,0,0,0
+45,Female,1,1,0,1,1
+50,Male,0,0,1,1,1
+35,Female,1,0,0,0,0
+60,Male,1,1,1,1,1
+25,Female,0,0,0,0,0
